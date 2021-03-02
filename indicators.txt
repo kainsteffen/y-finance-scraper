@@ -1,0 +1,14 @@
+Quote:
+Market Cap
+PE Ratio
+EPS
+Forward Dividend
+Forward Dividend Yield
+Volume
+52 Week Range
+Beta 5Y Monthly
+
+Stats:
+Price To Sales
+Price To Book
+Forward PE
